@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(33, 51, 72);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.LouraStyle{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.LouraStyle img{
+  width: 50%;
+  border-radius: 10px;
+}
+
+.greenText{
+  color: rgb(94, 179, 94);
+}
+.redText{
+  color: rgb(235, 100, 100);
+}
+.none{
+  display: none;
+}
